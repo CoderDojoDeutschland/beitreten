@@ -8,7 +8,7 @@ Wie kann ich zum CoderDojo Deutschland e.V. beitreten?
    > Makelstr. 7  
    > 12163 Berlin  
    > Germany
-3. Der Vorstand stimmt dem Antrag zu und du bekommst eine Mail.
+3. Der Vorstand stimmt dem Antrag zu oder lehnt ihn ab und du bekommst eine Mail.
 
 ---
 
@@ -16,5 +16,8 @@ Organisation
 ------------
 
 Die offizielle URL zum Mitgliedsantrag ist diese:
+https://coderdojodeutschland.github.io/beitreten/Mitgliedsantrag_CoderDojo_Deutschland.pdf
+Bitte diese bei Verlinkungen immer benutzen, damit wir den Antrag auch mal ändern können und nicht
+alte rumgeistern.
 
-[antrag]: Mitgliedsantrag_CoderDojo_Deutschland.pdf
+[antrag]: https://coderdojodeutschland.github.io/beitreten/Mitgliedsantrag_CoderDojo_Deutschland.pdf
