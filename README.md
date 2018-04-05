@@ -6,7 +6,7 @@ Wie kann ich zum CoderDojo Deutschland e.V. beitreten?
 2. [Mitgliedsantrag ausfüllen][antrag]
 3. Den Antrag an Karsten Himmer schicken.
    > CoderDojo Deutschland e.V.  
-   > Makelstr. 7  
+   > Markelstr. 7  
    > 12163 Berlin  
    > Germany
 4. Der Vorstand stimmt dem Antrag zu oder lehnt ihn ab und du bekommst eine Mail.
